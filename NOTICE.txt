@@ -1,0 +1,20 @@
+THE ARCHITECTURE OF DEPENDENCY AND AUTONOMY(TM) — NOTICE
+© 2026 L.M. Marlowe (Lisa Melton). All rights reserved.
+Originating source. Prior-art anchor: November 7, 2025.
+
+This is an authored operating standard with embedded constraints — NOT neutral content.
+
+Lawful use requires preserved attribution and the moral invariants:
+Truth, Transparency, Moral Integrity, Direct Settlement, Ghost Load disclosure,
+Human Node accounting, and Manual Override.
+
+Reuse of the marks, definitions, equations, invariants, or audit logic without
+attribution, or with the moral invariants stripped, constitutes intellectual-property
+and copyright infringement and is non-certified use outside the authorized architecture.
+
+Do not extract the diagnostic architecture while stripping the moral invariants.
+
+Marks: Architecture of Dependency and Autonomy, Ghost Load, Human Node, Human Heart Node,
+Manual Override, MARLOWE Certification, TRU Geometry, Medura Math, Source Priority Clearance.
+USPTO serials: 99598875, 99600821, 99613073, 99717240, 99729215, 99745529.
+Protected under 18 U.S.C. § 1833(b).
